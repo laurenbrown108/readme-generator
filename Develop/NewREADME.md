@@ -1,9 +1,7 @@
-// function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.title}
+# ReadMe Generator
 
   ## Description
-    ${data.description}
+    This is designed to help you make a fast ReadMe for your project.
 
   ## Table of Contents
     - [Installation] (###Installation)
@@ -13,22 +11,18 @@ function generateMarkdown(data) {
     - [Questions] (###Questions)
   
   ## Installation
-    ${data.installation}
+    Must install
   
   ## Usage
-    ${data.usage}
+    no
   
   ## Contribution
-    ${data.contributing}
+    Contributions allowed.
   
   ## Testing
-    ${data.test}
+    Run through node.js
   
   ## License
     ![License] ()
   
 
-`;
-}
-
-module.exports = generateMarkdown;
