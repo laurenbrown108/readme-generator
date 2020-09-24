@@ -1,26 +1,26 @@
-# ReadMe Generator
+# README
 
   ## Description
-    This is designed to help you make a fast ReadMe for your project.
+    TRY THIS OUT
 
   ## Table of Contents
-    - [Installation] (###Installation)
-    - [Usage] (###Usage)
-    - [Contribution] (###Contribution)
-    - [Testing] (###Testing)
-    - [Questions] (###Questions)
+    * [Installation](#Installation)
+    * [Usage](#Usage)
+    * [Contribution](#Contribution)
+    * [Testing](#Testing)
+    * [Questions](#Questions)
   
   ## Installation
-    Must install
+    ALL OF EM
   
   ## Usage
-    no
+    EVERYTHING
   
   ## Contribution
-    Contributions allowed.
+    USE THIS
   
   ## Testing
-    Run through node.js
+    TEST IT
   
   ## License
     ![License] ()
