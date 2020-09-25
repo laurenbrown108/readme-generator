@@ -7,34 +7,34 @@ Quickly create a comprehensive README file.
 
 - Check out the demo here: [full demo](https://drive.google.com/file/d/1vv6DA_Ts92Ly0iPSOJxkLfqTBopZDseQ/view)
 
-  ## Table of Contents
+ ## Table of Contents
   
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [Contribution](#Contribution)
-  - [Testing](#Testing)
-  - [Questions](#Questions)
+ - [Installation](#Installation)
+ - [Usage](#Usage)
+ - [Contribution](#Contribution)
+ - [Testing](#Testing)
+ - [Questions](#Questions)
   
-  ## Installation
+ ## Installation
   
-  Install inquire.
+ Install inquire.
   
-  ## Usage
+ ## Usage
   
-  Use this project to generate a README for your next repo.
+ Use this project to generate a README for your next repo.
   
-  ## Contribution
+ ## Contribution
   
-  You may fork this project to your Github to edit.
+ You may fork this project to your Github to edit.
   
-  ## Testing
+ ## Testing
   
-  Run the project through your terminal as you edit.
+ Run the project through your terminal as you edit.
   
-  ## License
+ ## License
   
-  This project is licensed under the MIT license.
+ This project is licensed under the MIT license.
   
-  ## Questions
+ ## Questions
   
-  [Email](mailto:laurenbrown108@gmail.com) me with any questions & connect with me on [Github](https://github.com/laurenbrown108).
+ [Email](mailto:laurenbrown108@gmail.com) me with any questions & connect with me on [Github](https://github.com/laurenbrown108).
