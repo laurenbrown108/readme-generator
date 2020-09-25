@@ -2,7 +2,7 @@
 
   ## Description
     
-  This project is designed to quickly generate a comprehensive README.md file.
+  Quickly create a comprehensive README file.
 
   ## Table of Contents
   
@@ -14,22 +14,25 @@
   
   ## Installation
     
-  inquire is needed to run this project.
+  Install inquire.
   
   ## Usage
   
-  Use this project to generate a README file for your repository.
+  Use this project to generate a README for your next repo.
   
   ## Contribution
   
-  You may fork this to your github and edit.
+  You may fork this project to your Github to edit.
   
   ## Testing
     
-  To test, simply run through the terminal as you edit.
+  Run the project through your terminal as you edit.
   
   ## License
  
   This project is licensed under the MIT license.
   
+  ## Questions
+
+  [Email](mailto:laurenbrown108@gmail.com) me with any questions & connect with me on [Github](https://github.com/laurenbrown108).
 
