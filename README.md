@@ -4,7 +4,8 @@
 Quickly create a comprehensive README file.
 
 ![demo](https://github.com/laurenbrown108/readme-generator/blob/master/demogif.gif?raw=true)
-Check out the demo here: [full demo](https://drive.google.com/file/d/1vv6DA_Ts92Ly0iPSOJxkLfqTBopZDseQ/view)
+
+- Check out the demo here: [full demo](https://drive.google.com/file/d/1vv6DA_Ts92Ly0iPSOJxkLfqTBopZDseQ/view)
 
   ## Table of Contents
   
